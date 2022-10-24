@@ -2,7 +2,7 @@
 
   # Author Kazeem----
   # Date---- Oct-23-2023
-  #description--  script that install pkg on ubuntu server---
+  #description--  script that install pkg on apache server---
 
 yum install httpd -y
 systemctl status httpd
