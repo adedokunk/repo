@@ -4,14 +4,14 @@
   # Date---- Oct-23-2023
   #description--  script that install pkg on alpine server---
 
-apk  wget
-apk net-utils
-apk sysstat
-apk finger
-apk gcc
-apk  make
-apk python3
-apk  epel-release
-apk  git
+apk add  wget
+apk add net-utils
+apk add sysstat
+apk add finger
+apk add gcc
+apk add  make
+apk add python3
+apk add  epel-release
+apk add  git
 
 echo "packages installed successful"
