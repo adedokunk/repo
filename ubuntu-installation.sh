@@ -4,14 +4,14 @@
   # Date---- Oct-23-2023
   #description--  script that install pkg on ubuntu server---
 
-apt  wget
-apt net-utils
-apt sysstat
-apt finger
-apt gcc
-apt  make
-apt python3
-apt  epel-release
-apt  git
+apt install wget
+apt install net-utils
+apt install sysstat
+apt install finger
+apt install gcc
+apt install make
+apt install python3
+apt install epel-release
+apt install git
 
 echo "packages installed successful"
